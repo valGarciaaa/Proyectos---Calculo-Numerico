@@ -17,5 +17,7 @@ Estas herramientas permiten resolver ecuaciones no lineales y aproximar áreas b
 Actualmente, el repositorio incluye las siguientes implementaciones:
 
 Implementación del método de Bisección.
+
 Implementación del método de Newton-Raphson.
+
 Implementación del método de Integración Numérica de Riemann.
