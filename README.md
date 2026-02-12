@@ -14,9 +14,9 @@ métodos numéricos estudiados durante el curso, sirviendo como un recurso de co
 Estas herramientas permiten resolver ecuaciones no lineales y aproximar áreas bajo la curva de manera eficiente, aplicando la teoría a soluciones computacionales reales
 
 # 🗂 Contenido del Repositorio
-Actualmente, el repositorio incluye las siguientes implementaciones:
+Actualmente, el repositorio incluye las siguientes métodos: 
 
-Implementación del método de Bisección.
+**Implementación del método de Bisección**.
 
 Implementación del método de Newton-Raphson.
 
