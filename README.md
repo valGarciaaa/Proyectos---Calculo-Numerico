@@ -1,8 +1,8 @@
 # 📄Descripción General
 Este repositorio centraliza los proyectos y ejercicios desarrollados para la asignatura Cálculo Numérico. 
 Su objetivo es consolidar en un único portafolio académico las implementaciones de diversos algoritmos y 
-métodos numéricos estudiados durante el curso, sirviendo como un recurso de consulta y un historial organizado
-Estas herramientas permiten resolver ecuaciones no lineales y aproximar áreas bajo la curva de manera eficiente, aplicando la teoría a soluciones computacionales reales
+métodos numéricos estudiados durante el curso, sirviendo como un recurso de consulta y un historial organizado.
+Estas herramientas permiten resolver ecuaciones no lineales y aproximar áreas bajo la curva de manera eficiente.
 
 ### 👤 Información de la Autora
 **•Nombre:** Valeria García
