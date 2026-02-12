@@ -10,7 +10,7 @@ C.I.: 31.649.272
 
 **• Institución:** Universidad de Oriente - Núcleo Nueva Esparta(UDONE)
 
-**Carrera:** Licenciatura en Informática
+**• Carrera:** Licenciatura en Informática
 
 
 
